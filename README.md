@@ -1,1 +1,1 @@
-# endless-protocol
+# Endless Protocol
